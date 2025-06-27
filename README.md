@@ -1,5 +1,5 @@
 # Swarm_WSN_System
-Securing Wireless Sensor Networks: Swarm-Enabled Intrusion Detection Against Black Hole Attacks
+🛰️Securing Wireless Sensor Networks: Swarm-Enabled Intrusion Detection Against Black Hole Attacks
 
 This project focuses on designing an Intrusion Detection System (IDS) for Wireless Sensor Networks (WSNs) using swarm intelligence — specifically, Ant Colony Optimization (ACO) and Artificial Bee Colony (ABC) — to detect and mitigate Black Hole Attacks.
 
