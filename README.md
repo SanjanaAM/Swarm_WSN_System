@@ -11,7 +11,7 @@ Black Hole Attacks pose a significant threat to WSNs by dropping all packets pas
 - Improve IDS accuracy in resource-constrained environments
 
 🎯 Project Objectives
-- Develop a swarm intelligence-based framework to detect dynamic Black Hole Attacks in Wireless Sensor Networks (WSNs).
+- Develop a swarm intelligence-based framework to detect dynamic Black Hole Attacks in Wireless Sensor Networks.
 - Enhance IDS performance in real-time by balancing detection accuracy with energy efficiency.
 - Integrate and evaluate ACO and ABC algorithms for improving security in resource-constrained WSN environments.
 
